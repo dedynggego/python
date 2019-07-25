@@ -1,3 +1,5 @@
+#Prediksi Cuaca
+
 from numpy import exp, array, random, dot, argmax
 
 #hyperparameter
