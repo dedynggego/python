@@ -1,1 +1,2 @@
-
+Implementasi Firefly Algorithm pada Kasus N-Queens Problem.
+Program ini menghasilkan output posisi terbaik N-queens dan jumlah iterasi yang dibutuhkan FA dalam pencarian solusi optimal dari kasus N-Queens Problem.
